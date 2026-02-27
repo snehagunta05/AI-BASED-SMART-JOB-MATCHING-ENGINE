@@ -1,0 +1,112 @@
+[
+  {
+    "candidate_id": "C001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@email.com",
+    "skills": ["Python", "Machine Learning", "Data Analysis", "SQL", "TensorFlow", "Pandas"],
+    "years_experience": 5,
+    "education": "Master's",
+    "preferred_location": "San Francisco, CA",
+    "expected_salary": 120000,
+    "resume_text": "Experienced data scientist with 5 years in machine learning and data analysis. Proficient in Python, TensorFlow, and SQL. Looking for challenging ML roles."
+  },
+  {
+    "candidate_id": "C002",
+    "name": "Bob Smith",
+    "email": "bob.smith@email.com",
+    "skills": ["Java", "Spring Boot", "Microservices", "Docker", "Kubernetes"],
+    "years_experience": 7,
+    "education": "Bachelor's",
+    "preferred_location": "New York, NY",
+    "expected_salary": 140000,
+    "resume_text": "Senior Java developer with 7 years of experience in enterprise applications. Expert in Spring Boot and microservices architecture."
+  },
+  {
+    "candidate_id": "C003",
+    "name": "Carol Williams",
+    "email": "carol.williams@email.com",
+    "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS", "MongoDB"],
+    "years_experience": 3,
+    "education": "Bachelor's",
+    "preferred_location": "Austin, TX",
+    "expected_salary": 85000,
+    "resume_text": "Full-stack developer with 3 years experience in React and Node.js. Passionate about building responsive web applications."
+  },
+  {
+    "candidate_id": "C004",
+    "name": "David Brown",
+    "email": "david.brown@email.com",
+    "skills": ["Python", "Django", "Flask", "PostgreSQL", "AWS", "Docker"],
+    "years_experience": 4,
+    "education": "Bachelor's",
+    "preferred_location": "Seattle, WA",
+    "expected_salary": 110000,
+    "resume_text": "Backend developer with 4 years experience in Python frameworks. Proficient in Django, Flask, and cloud deployment."
+  },
+  {
+    "candidate_id": "C005",
+    "name": "Emma Davis",
+    "email": "emma.davis@email.com",
+    "skills": ["Machine Learning", "Deep Learning", "Python", "TensorFlow", "PyTorch", "Computer Vision"],
+    "years_experience": 6,
+    "education": "PhD",
+    "preferred_location": "Boston, MA",
+    "expected_salary": 150000,
+    "resume_text": "AI researcher with PhD in Computer Vision. 6 years of experience in deep learning and machine learning research."
+  },
+  {
+    "candidate_id": "C006",
+    "name": "Frank Miller",
+    "email": "frank.miller@email.com",
+    "skills": ["C++", "C#", "Unity", "Game Development", "Unreal Engine"],
+    "years_experience": 8,
+    "education": "Bachelor's",
+    "preferred_location": "Los Angeles, CA",
+    "expected_salary": 130000,
+    "resume_text": "Senior game developer with 8 years in AAA game development. Expert in Unity and Unreal Engine."
+  },
+  {
+    "candidate_id": "C007",
+    "name": "Grace Lee",
+    "email": "grace.lee@email.com",
+    "skills": ["Data Science", "Python", "R", "Statistics", "Machine Learning", "Tableau"],
+    "years_experience": 4,
+    "education": "Master's",
+    "preferred_location": "Chicago, IL",
+    "expected_salary": 95000,
+    "resume_text": "Data scientist with strong statistical background. Experienced in R, Python, and data visualization with Tableau."
+  },
+  {
+    "candidate_id": "C008",
+    "name": "Henry Wilson",
+    "email": "henry.wilson@email.com",
+    "skills": ["DevOps", "AWS", "Docker", "Kubernetes", "Jenkins", "Terraform"],
+    "years_experience": 5,
+    "education": "Bachelor's",
+    "preferred_location": "Remote",
+    "expected_salary": 125000,
+    "resume_text": "DevOps engineer with 5 years experience in cloud infrastructure and CI/CD. AWS certified specialist."
+  },
+  {
+    "candidate_id": "C009",
+    "name": "Iris Taylor",
+    "email": "iris.taylor@email.com",
+    "skills": ["UI/UX Design", "Figma", "Adobe XD", "Sketch", "Prototyping", "User Research"],
+    "years_experience": 3,
+    "education": "Bachelor's",
+    "preferred_location": "Miami, FL",
+    "expected_salary": 75000,
+    "resume_text": "UI/UX designer with 3 years experience in mobile and web design. Expert in Figma and user research."
+  },
+  {
+    "candidate_id": "C010",
+    "name": "Jack Anderson",
+    "email": "jack.anderson@email.com",
+    "skills": ["Python", "SQL", "Excel", "Power BI", "Data Warehousing", "ETL"],
+    "years_experience": 6,
+    "education": "Master's",
+    "preferred_location": "Denver, CO",
+    "expected_salary": 105000,
+    "resume_text": "Data analyst with 6 years experience in business intelligence. Expert in SQL, Power BI, and ETL processes."
+  }
+]
